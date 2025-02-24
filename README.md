@@ -17,3 +17,9 @@ No exemplo abaixo, foi possível utilizar uma música que foi transcrita em temp
 ![image](https://github.com/user-attachments/assets/f26bbbd3-d7d5-4ba8-b4d7-66b71055da20)
 
 Foi possível verificar e testar no Portal IA do Azure falas em inglês captadas de forma instantânea, interpretada e transcrita por meio de gravação e não só de arquivos, sendo muito útil para dúvidas rápidas por meio de fala própria ajudando no ensino do idioma inglês.
+
+Recurso de Sentimento do cliente pelo Azure, texto feito por mim:
+
+![image](https://github.com/user-attachments/assets/34e71aa0-62c7-4e31-a904-65bc01a1d083)
+
+
